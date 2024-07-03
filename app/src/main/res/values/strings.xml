@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">On_Boarding_Master</string>
+    <string name="near_by_places_description">Uncover hidden gems and local treasures as you explore. The nearby places waiting to be discovered. right in your neighborhood.</string>
+    <string name="route_finder_description">Discover the easiest and quickest routes with Route Finder. you go to tool for seamless navigation wherever you go</string>
+    <string name="world_tour_description">From Sunrise to Sunset, Explore Every Corner. World Tour, Your Journey Begins Here.</string>
+    <string name="world_tour">World Tour</string>
+    <string name="route_finder">Route Finder</string>
+    <string name="near_by_places">Nearby Places</string>
+
+
+
+</resources>
